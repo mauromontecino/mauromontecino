@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://www.mauromontecino.com/](https://www.mauromontecino.com/)
+- 👨‍💻 All of my projects are available at [https://www.mauromontecino.com/](https://mauromontecino.github.io/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
